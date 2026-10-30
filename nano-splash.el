@@ -1,3 +1,4 @@
+;; nano-splash.el -*- lexical-binding: t; -*-
 ;; ---------------------------------------------------------------------
 ;; GNU Emacs / N Λ N O - Emacs made simple
 ;; Copyright (C) 2020 - N Λ N O developers 

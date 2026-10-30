@@ -1,3 +1,4 @@
+;; nano-faces.el -*- lexical-binding: t; -*-
 ;;; nano-faces --- Face settings for nano-emacs
 ;;; License:
 ;; ---------------------------------------------------------------------
