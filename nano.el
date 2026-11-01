@@ -22,7 +22,9 @@
   (add-to-list 'load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
+(add-to-list 'load-path (expand-file-name "rougier/" user-emacs-directory))
 ;; Default layout (optional)
+
 (require 'nano-layout)
 
 ;; Theming Command line options (this will cancel warning messages)
